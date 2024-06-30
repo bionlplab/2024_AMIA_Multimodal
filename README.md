@@ -1,3 +1,3 @@
-## AMIA 2023 Annual Symposium Panel on Large Language Models in Healthcare: Opportunities and Challenge
+## AMIA 2024 Annual Symposium Panel on Multimodal Data Analysis in Healthcare: Opportunities and Challenges
 
-https://bionlplab.github.io/2023_AMIA_LLM/
+https://bionlplab.github.io/2024_AMIA_Multimodal/
